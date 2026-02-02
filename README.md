@@ -9,6 +9,18 @@ A simple React Native app built with Expo that displays a list of users from an 
 - Shows user details on tap
 - Clean, responsive UI with TypeScript
 
+## Screenshots
+
+| User List | User Details |
+|:---------:|:------------:|
+| ![User List Screen](docs/user-list.png) | ![User Detail Screen](docs/user-detail.png) |
+
+## Demo
+
+https://github.com/user-attachments/assets/19cda9e4-bc73-47b3-b95b-94f43924f81b
+
+> To add your own demo video: Upload an MP4 to GitHub (drag into an issue/PR comment), then paste the generated URL above.
+
 ## Tech Stack
 
 - **Expo** - React Native framework for faster development
