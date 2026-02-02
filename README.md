@@ -19,8 +19,6 @@ A simple React Native app built with Expo that displays a list of users from an 
 
 https://github.com/user-attachments/assets/19cda9e4-bc73-47b3-b95b-94f43924f81b
 
-> To add your own demo video: Upload an MP4 to GitHub (drag into an issue/PR comment), then paste the generated URL above.
-
 ## Tech Stack
 
 - **Expo** - React Native framework for faster development
